@@ -1,0 +1,2 @@
+# Greedy
+Pukul mampat 
